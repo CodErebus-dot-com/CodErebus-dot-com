@@ -2,6 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD1E54&random=false&lines=Front-end+Developer;3%2B+years+of+experience;Always+learning+and+trying+new+stuff)](https://git.io/typing-svg)
 
+- 🔭 I’m currently working on a solution to make Azure AD pages easy to customize using modern styling solutions
+- 🌱 I’m currently exploring [htmx](https://htmx.org/) and [Remix](https://remix.run/)
+- 🤔 I’m looking for help with on improving the Azure AD customization solution and on a chatbot generator tool
+- ⚡ Fun fact you didn't ask for: I spend most of my day playing with my little niece
+  
+### Know more about/Find me here
+  
+[![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~coderebus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/varkisebi/) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://hashnode.com/@Coderebus) [![Resume](https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white)](https://drive.google.com/file/d/1KEvwmXQZCHYFfH29gK6pkKVkwEc-wOAS/view?usp=drive_link)
+
+### Random but cool looking stats
+  
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodErebus-dot-com&theme=radical)
 
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodErebus-dot-com&theme=radical)  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodErebus-dot-com&theme=radical)
@@ -10,12 +21,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CodErebus-dot-com&theme=radical&card_width=700)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on a solution to make Azure AD pages easy to customize using modern styling solutions
-- 🌱 I’m currently exploring [htmx](https://htmx.org/) and [Remix](https://remix.run/)
-- 🤔 I’m looking for help with on improving the Azure AD customization solution and on a chatbot generator tool
-- ⚡ Fun fact you didn't ask for: I spend most of my day playing with my little niece
-
-### Tech Stack
+### Tech/Tools I've used recently
 - Web Dev: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - Modern CSS Solutions: ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![ShadcnUI](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white) ![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white)
 - CSS-in-JS: ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Emotion](https://img.shields.io/badge/Emotion-100000?style=for-the-badge&logo=Emotion&logoColor=white&labelColor=D26AC2&color=D26AC2)
